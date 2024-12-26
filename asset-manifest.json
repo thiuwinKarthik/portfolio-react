@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/thiuwinKarthik/portfolio-react.git/static/css/main.5027093a.css",
+    "main.js": "/thiuwinKarthik/portfolio-react.git/static/js/main.c78ad9cd.js",
+    "static/media/aboutLogo.png": "/thiuwinKarthik/portfolio-react.git/static/media/aboutLogo.3d0f4e5f2f461ad9c4b1.png",
+    "static/media/script.png": "/thiuwinKarthik/portfolio-react.git/static/media/script.649a896f8c09e1c99df5.png",
+    "static/media/profileLogo.jpg": "/thiuwinKarthik/portfolio-react.git/static/media/profileLogo.788c31c447526c407983.jpg",
+    "static/media/html.png": "/thiuwinKarthik/portfolio-react.git/static/media/html.1d7b133e22ffe4829da6.png",
+    "static/media/tcss.png": "/thiuwinKarthik/portfolio-react.git/static/media/tcss.93551844a3d031dd7c1c.png",
+    "static/media/reactJs.png": "/thiuwinKarthik/portfolio-react.git/static/media/reactJs.cd4ab68456d5875b788e.png",
+    "static/media/css.png": "/thiuwinKarthik/portfolio-react.git/static/media/css.99426a611bd5b768e71d.png",
+    "index.html": "/thiuwinKarthik/portfolio-react.git/index.html",
+    "main.5027093a.css.map": "/thiuwinKarthik/portfolio-react.git/static/css/main.5027093a.css.map",
+    "main.c78ad9cd.js.map": "/thiuwinKarthik/portfolio-react.git/static/js/main.c78ad9cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5027093a.css",
+    "static/js/main.c78ad9cd.js"
+  ]
+}
